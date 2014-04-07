@@ -1,0 +1,43 @@
+PalMaster II
+Based off of "PalMaster" By Bolan
+Modified version by Maxim
+
+Title screen by astral
+
+[Maxim:  This version of PalMaster should make editing SMZX palettes faster than ever.]
+
+This is my first read me, I've never made a utility program before. Let's get the basics covered.
+
+* = New in PalMaster II
+
+Arrow Keys - Change colour
+R - Increase red in selected colour
+G - Increase green
+B - Increase blue
+*A - Increase all
+Shift+R - Decrease red in selected colour
+Shift+G - Decrease green
+Shift+B - Decrease blue
+*Shift+A - Decrease all
+*Space - Fast edit color  (Fast edit controls:  Up/down to pick a value, left/right to modify value.)
+  Hold shift to modify values faster.
+*Left click - Copy color
+*Right click - Paste color
+Tab - Flips between the solid colour palette and the palette displaying the colour combos
+  [Maxim:  Tab now allows view of smzx2 palette with gradients.]
+*P - Change gradient pattern
+L - Load a palette
+S - Save a palette
+Backspace/*Delete - Blacken colour
+0 to 9 - Stores selected colour in a slot (0-9)
+Shift+0 to 9 - Retrieves saved colour from the numbered slot and overwrites selected colour
+
+Note: You can press R+G+B at the same time and the colours will all increase at the same time, and decrease if you add shift.  [Maxim:  Still featured, but obsolete unless you want to press R+G or G+B or something.]
+
+That's all there is to it! Simply make sure you take some other palette file and rename it to what you want to save your palette as; this thing can't create .pal files out of nothing so you'll have to save over an old one.  [Maxim:  No longer true, it saves new files for me.]
+
+Special thanks to LogiCow, mOdac, Exophase, Galladin, gnert, astral. They all believed in me! <3
+
+Hope you all enjoy!
+
+-Bolan
