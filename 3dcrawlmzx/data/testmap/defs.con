@@ -4,10 +4,10 @@ maptitle2=Testlando
 [walls]
 wall5=stonewood
 wall4=redbrick
-wall8=citywindow
-wall7=wall2
-wall2=tree
-wall3=timberhouse
+wall3=citywindow
+wall8=wall2
+wall6=tree
+wall7=timberhouse
 [floors]
 tile2=grass
 tile10=floor
