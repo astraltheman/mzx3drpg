@@ -1,6 +1,9 @@
 [weapons]
 ArmingSword
+	dname Arming Sword
+	itype slashy
+	power 400
 [armors]
-Duster
+Brigandine
 [tools]
 [end]
