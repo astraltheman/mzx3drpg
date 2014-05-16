@@ -1,9 +1,16 @@
 [weapons]
 ArmingSword
 	dname Arming Sword
-	itype slashy
+	itype weapon
 	power 400
+Shank
+	dname Prison Shank
+	itype weapon
+	power 100
 [armors]
 Brigandine
+	dname Brigandine Coat
+	itype armor
 [tools]
+[consumables]
 [end]
