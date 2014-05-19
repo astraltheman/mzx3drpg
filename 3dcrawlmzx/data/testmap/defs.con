@@ -1,6 +1,7 @@
 [mapnamestuff]
 maptitle1=New
 maptitle2=Testlando
+music=castlecall.ogg
 [walls]
 wall5=stonewood
 wall4=redbrick
