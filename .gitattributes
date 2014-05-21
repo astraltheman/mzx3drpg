@@ -2,8 +2,8 @@
 # * text=auto
 
 # fucking shit
-*.txt text eol=CRLF
-*.con text eol=CRLF
+*.txt eol=CRLF
+*.con eol=CRLF
 
 # Custom for Visual Studio
 *.cs     diff=csharp
