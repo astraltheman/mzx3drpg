@@ -1,9 +1,9 @@
 # Auto detect text files and perform LF normalization
-# * text=auto
+* text=auto
 
 # fucking shit
-*.txt eol=CRLF
-*.con eol=CRLF
+*.txt text eol=crlf
+*.con text eol=crlf
 
 # Custom for Visual Studio
 *.cs     diff=csharp
