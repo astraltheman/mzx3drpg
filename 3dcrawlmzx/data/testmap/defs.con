@@ -6,13 +6,13 @@ music=castlecall.ogg
 wall5=stonewood
 wall4=redbrick
 wall3=citywindow
-wall8=wall2
+wall8=graybrick
 wall6=tree
 wall7=timberhouse
 [floors]
 tile2=grass
 tile10=floor
-tile7=pavement
+tile7=tanpave
 tile14=road
 [ceilings]
 roof7=ceiling
